@@ -28,8 +28,10 @@ title: Developer Guide
 --------------------------------------------------------------------------------------------------------------------
 
 ## **Acknowledgements**  
-Refer to the guide [_Setting up and getting started_](SettingUp.md).
+
 [1Opencsv](http://opencsv.sourceforge.net/)
+
+* [1Opencsv](http://opencsv.sourceforge.net/)
 --------------------------------------------------------------------------------------------------------------------
 
 ## **Setting up, getting started**
