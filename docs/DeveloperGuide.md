@@ -27,7 +27,7 @@ title: Developer Guide
 
 --------------------------------------------------------------------------------------------------------------------
 
-## **Acknowledgements**  
+## **Acknowledgements**
 
 [1Opencsv](http://opencsv.sourceforge.net/)  
 
