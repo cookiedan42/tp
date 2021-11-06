@@ -1,4 +1,3 @@
-[projectRootDomain]: https://github.com/AY2122S1-CS2103-F09-4/tp  
 ---
 layout: page
 title: Developer Guide
@@ -966,3 +965,6 @@ testers are expected to do more *exploratory* testing.
    1. _{explain how to simulate a missing/corrupted file, and the expected behavior}_
 
 1. _{ more test cases …​ }_
+
+
+[projectRootDomain]: https://github.com/AY2122S1-CS2103-F09-4/tp  
